@@ -1,4 +1,10 @@
-[![JetBrains team project](http://jb.gg/badges/team.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+support 2022 Ubuntu20.04
+
+default node env, and python3 env
+
+source: https://github.com/emiliadecaudin/colorSchemeTool
+
+
 # colorSchemeTool for JetBrains IDEs
 This tool can help you convert color schemes used in TextMate and VS Code and make them compatible with IntelliJ-based IDEs, such as IntelliJ IDEA, WebStorm, and PyCharm.
 
